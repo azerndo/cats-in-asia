@@ -5,7 +5,7 @@ Thank you for visiting the Cats in Asia Database Management System (CADMS)! This
 
 To run the `MySQLConnectionDemo` directory, execute the following commands on the terminal.
 
-First, navigate to the `MySQLConnectionDemo` directory and install the necessary dependencies:
+First, navigate to the `MySQLConnectionDemo` directory and run `dotnet run`
 
 ```sh
 cd MySQLConnectionDemo; dotnet restore
